@@ -1,0 +1,413 @@
+@charset "utf-8";
+/* CSS Document */
+
+.about-us * {
+  box-sizing: border-box;
+}
+.about-us {
+  background: #ffffff;
+  width: 1440px;
+  height: 2977px;
+  position: relative;
+  overflow: hidden;
+}
+.banner{
+  width: 1440px;
+  height: 462.86px;
+  position: absolute;
+  left: calc(50% - 720px);
+ top: 125px;
+
+}
+.we-believe  {
+  color: #000000;
+  text-align: left;
+  font: 500 32px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 307px);
+  top: 608px;
+}
+.welcome {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 583px;
+  top: 665px;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - -14px);
+  top: 736px;
+}
+.About {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 734px;
+  top: 807px;
+}
+.About1 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 740px;
+  top: 1077px;
+}
+.button {
+  background: #c34b4d;
+  border-radius: 3px;
+  width: 158px;
+  height: 52px;
+  position: absolute;
+  left: 740px;
+  top: 1212px;
+}
+.read-more {
+  color: #ffffff;
+  text-align: left;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 752px;
+  top: 1220px;
+}
+.Aboutimg {
+  width: 500px;
+  height: 390.64px;
+  position: absolute;
+  left: 145px;
+  top: 814px;
+}
+.celebrate {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 222px);
+  top: 1317px;
+}
+.img1 {
+  border-radius: 5px;
+  width: 573px;
+  height: 276px;
+  position: absolute;
+  left: 120px;
+  top: 1393px;
+}
+.img2 {
+  border-radius: 5px;
+  width: 539px;
+  height: 276px;
+  position: absolute;
+  left: 781px;
+  top: 1393px;
+}
+.img3{
+  border-radius: 5px;
+  width: 500px;
+  height: 276.57px;
+  position: absolute;
+  left: 120px;
+  top: 1712px;
+}
+.img4 {
+  border-radius: 5px;
+  width: 675px;
+  height: 277px;
+  position: absolute;
+  left: 645px;
+  top: 1712px;
+}
+.rectangle1 {
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 590px;
+  height: 318px;
+  position: absolute;
+  left: 120px;
+  top: 2057px;
+}
+.vision {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 140px;
+  top: 2179px;
+}
+.visionimg {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 142px;
+  top: 2068px;
+}
+.rectangle-21 {
+  background: #f78da7;
+  border-radius: 5px;
+  width: 590px;
+  height: 318px;
+  position: absolute;
+  left: 730px;
+  top: 2057px;
+}
+.our-vision {
+  color: #000000;
+  text-align: left;
+  font: 500 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 259px;
+  top: 2099px;
+}
+.our-mission {
+  color: #000000;
+  text-align: left;
+  font: 500 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 878px;
+  top: 2112px;
+}
+.missionimg {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 757px;
+  top: 2086px;
+}
+.mission {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 757px;
+  top: 2201px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 381px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2520px;
+}
+.rectangle-10 {
+  background: #fbdf02;
+  border-radius: 10px;
+  width: 400px;
+  height: 394px;
+  position: absolute;
+  left: 150px;
+  top: 2436px;
+}
+.get-in-touch {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1041px;
+  top: 2549px;
+}
+.links {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2550px;
+}
+.copyright {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 178px);
+  top: 2917px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2603px;
+}
+.about-us3 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2652px;
+}
+.cakes {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2700px;
+}
+.testimonial {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2749px;
+}
+.gallery {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 622px;
+  top: 2803px;
+}
+.connect {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1048px;
+  top: 2786px;
+}
+.info {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 2550px;
+}
+.fa-qs {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 2603px;
+}
+.privacy-policy {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 2652px;
+}
+.terms-conditions {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 2700px;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 824px;
+  top: 2749px;
+}
+.logo {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 150px;
+  top: 2433px;
+}
+.vector {
+  position: absolute;
+  left: 1048px;
+  top: 2833px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 1090.84px;
+  top: 2833px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 1156.84px;
+  top: 2833px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 1214.84px;
+  top: 2833px;
+  overflow: visible;
+}
+.rectangle-1 {
+  background: rgba(211, 95, 128, 0.3);
+  width: 1440px;
+  height: 112px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: -2px;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 399px;
+  top: 52px;
+}
+.about-us4 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 499px;
+  top: 52px;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1067px;
+  top: 52px;
+}
+.cakes2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 648px;
+  top: 52px;
+}
+.testimonial2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 756px;
+  top: 52px;
+}
+.gallery2 {
+  color: #000000;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 938px;
+  top: 52px;
+}
+.logo1 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 110px;
+  top: -48px;
+}
+

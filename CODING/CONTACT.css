@@ -1,0 +1,450 @@
+@charset "utf-8";
+/* CSS Document */
+
+.contact-us * {
+  box-sizing: border-box;
+}
+.contact-us {
+  background: #ffffff;
+  width: 1440px;
+  height: 1689px;
+  position: relative;
+  overflow: hidden;
+}
+.text {
+  color: #000000;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 459px);
+  top: 168px;
+}
+.box{
+  background: #d9d9d9;
+  border-radius: 5px;
+  width: 570px;
+  height: 748px;
+  position: absolute;
+  left: 140px;
+  top: 299px;
+}
+.sendbox {
+  background: #f78da7;
+  border-radius: 5px;
+  width: 100px;
+  height: 50px;
+  position: absolute;
+  left: 162px;
+  top: 983px;
+}
+.send {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 182px;
+  top: 990px;
+}
+.messagebox {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #656565;
+  border-width: 3px;
+  width: 526px;
+  height: 77px;
+  position: absolute;
+  left: 157px;
+  top: 881px;
+}
+.subjectbox {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #656565;
+  border-width: 3px;
+  width: 526px;
+  height: 56px;
+  position: absolute;
+  left: 157px;
+  top: 774px;
+}
+.phonebox {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #656565;
+  border-width: 3px;
+  width: 526px;
+  height: 56px;
+  position: absolute;
+  left: 157px;
+  top: 658px;
+}
+.emailbox{
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #656565;
+  border-width: 3px;
+  width: 526px;
+  height: 56px;
+  position: absolute;
+  left: 157px;
+  top: 543px;
+}
+.namebox {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #656565;
+  border-width: 3px;
+  width: 526px;
+  height: 56px;
+  position: absolute;
+  left: 157px;
+  top: 431px;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 459px;
+  height: 0px;
+  position: absolute;
+  left: 779px;
+  top: 506px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.address {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 520px;
+}
+.location{
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 561px;
+}
+.questions {
+  color: #000000;
+  text-align: center;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 221px;
+  top: 320px;
+}
+.name-required {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 392px;
+}
+.email-required {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 505px;
+}
+.phoneno-required {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 617px;
+}
+.subject {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 157px;
+  top: 735px;
+}
+.message {
+  color: #000000;
+  text-align: center;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 844px;
+}
+.office-address {
+  color: #000000;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 470px;
+}
+.phone {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 674px;
+}
+.number {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 715px;
+}
+.border {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 381px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 1232px;
+}
+.innerborder {
+  background: #FBDF02;
+  width: 400px;
+  height: 360px;
+  position: absolute;
+  left: 146px;
+  top: 1171px;
+	border-radius: 20px;
+}
+
+.quick-links {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1262px;
+}
+.copyright {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 168px);
+  top: 1621px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1315px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1364px;
+}
+.cakes {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1412px;
+}
+.testimonial {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1461px;
+}
+.gallery {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 632px;
+  top: 1515px;
+}
+.connect {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 1498px;
+}
+.info {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 834px;
+  top: 1262px;
+}
+.fa-qs {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 834px;
+  top: 1315px;
+}
+.privacy-policy {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 834px;
+  top: 1364px;
+}
+.terms-conditions {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 834px;
+  top: 1412px;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 834px;
+  top: 1461px;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 759px;
+}
+.contact-cakezone {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 774px;
+  top: 800px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 117px);
+  top: 101px;
+}
+.vector {
+  position: absolute;
+  left: 1063px;
+  top: 1544px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 1105.84px;
+  top: 1544px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 1171.84px;
+  top: 1544px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 1229.84px;
+  top: 1544px;
+  overflow: visible;
+}
+.logo-1 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 151px;
+  top: 1160px;
+	
+}
+.logo1 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 161px;
+  top: 1165px;
+}
+.rectangle-38 {
+  background: rgba(211, 95, 128, 0.3);
+  width: 1440px;
+  height: 112px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 0px;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 380px;
+  top: 51px;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 480px;
+  top: 51px;
+}
+.contact-us4 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1048px;
+  top: 51px;
+}
+.cakes2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 629px;
+  top: 51px;
+}
+.testimonial2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 737px;
+  top: 51px;
+}
+.gallery2 {
+  color: #000000;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 919px;
+  top: 51px;
+}
+.logo2 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 91px;
+  top: -52px;
+}

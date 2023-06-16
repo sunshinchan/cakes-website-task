@@ -1,0 +1,686 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.shop * {
+  box-sizing: border-box;
+}
+.shop {
+  background: #ffffff;
+  width: 1440px;
+  height: 3121px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-38 {
+  background: #feddcc;
+  width: 1440px;
+  height: 604px;
+  position: absolute;
+  left: 0px;
+  top: 139px;
+}
+.rectangle-40 {
+  background: #ffffff;
+  border-radius: 5px;
+  width: 1200px;
+  height: 368px;
+  position: absolute;
+  left: 120px;
+  top: 239px;
+}
+.fm-delicacies {
+  border-radius: 5px;
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 127px;
+  top: 270px;
+}
+.delicacies {
+  border-radius: 5px;
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 431px;
+  top: 270px;
+}
+.delicacies1 {
+  border-radius: 5px;
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 734px;
+  top: 270px;
+}
+.delicacies2 {
+  border-radius: 5px;
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 1037px;
+  top: 270px;
+}
+.products {
+  color: #a9802a;
+  text-align: left;
+  font: 500 32px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 107px);
+  top: 172px;
+}
+.cakes {
+  color: #a9802a;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 228px;
+  top: 554px;
+}
+.brownies {
+  color: #a9802a;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 512px;
+  top: 554px;
+}
+.deserts-cupcakes {
+  color: #a9802a;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 760px;
+  top: 554px;
+}
+.pastries {
+  color: #a9802a;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 1125px;
+  top: 554px;
+}
+.rectangle-39 {
+  background: #b2ddd3;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #a9802a;
+  border-width: 3px;
+  width: 204px;
+  height: 68px;
+  position: absolute;
+  left: calc(50% - 92px);
+  top: 631px;
+}
+.view-more {
+  color: #a9802a;
+  text-align: left;
+  font: 700 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 673px;
+  top: 650px;
+}
+.browse-cakes{
+  color: #000000;
+  text-align: left;
+  font: 500 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 517px;
+  top: 768px;
+}
+.discover-cakes{
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 454px;
+  top: 824px;
+}
+.delicious-cakes {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 167px;
+  top: 1176px;
+}
+.photo-cakes {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 490px;
+  top: 1176px;
+}
+.eggless-cakes {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 781px;
+  top: 1176px;
+}
+.designer-cakes {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1078px;
+  top: 1176px;
+}
+.delicious-cakes1 {
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  left: 132px;
+  top: 896px;
+}
+.photo-cake2 {
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  left: 436px;
+  top: 896px;
+}
+.designer-cake3 {
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  left: 1042px;
+  top: 896px;
+}
+.eggless-cakes4 {
+  width: 260px;
+  height: 260px;
+  position: absolute;
+  left: 738px;
+  top: 896px;
+}
+.rectangle-41 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #a9802a;
+  border-width: 2px;
+  width: 203px;
+  height: 64px;
+  position: absolute;
+  left: 1035px;
+  top: 1338px;
+}
+.view-all {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 1072px;
+  top: 1346px;
+}
+.rectangle-42 {
+  background: #d9d9d9;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 126px;
+  top: 1465px;
+}
+.rectangle-45 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 126px;
+  top: 2013px;
+}
+.rectangle-46 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 532px;
+  top: 2013px;
+}
+.rectangle-47 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 936px;
+  top: 2013px;
+}
+.rectangle-43 {
+  background: #d9d9d9;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 528px;
+  top: 1465px;
+}
+.rectangle-44 {
+  background: #d9d9d9;
+  width: 381px;
+  height: 504px;
+  position: absolute;
+  left: 936px;
+  top: 1465px;
+}
+.order {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 126px;
+  top: 1330px;
+}
+.a-perfect {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 126px;
+  top: 1388px;
+}
+.chocolate{
+  border-radius: 10px 10px 0px 0px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 936px;
+  top: 1465px;
+}
+.red-velvet{
+  border-radius: 10px 10px 0px 0px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 126px;
+  top: 2014px;
+}
+.artistic-chocolate{
+  border-radius: 10px 10px 0px 0px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 126px;
+  top: 1465px;
+}
+.butterscotch {
+  border-radius: 10px 10px 0px 0px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 528px;
+  top: 1465px;
+}
+.rectangle-11 {
+  background: #d9d9d9;
+  width: 1440px;
+  height: 381px;
+  position: absolute;
+  left: calc(50% - 717px);
+  top: 2676px;
+}
+.rectangle-10 {
+  background: #fbdf02;
+  border-radius: 10px;
+  width: 400px;
+  height: 353px;
+  position: absolute;
+  left: 157px;
+  top: 2632px;
+}
+
+.links {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2706px;
+}
+.copyright{
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: 3065px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2759px;
+}
+.about-us {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2808px;
+}
+.cakes2 {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2856px;
+}
+.testimonial {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2905px;
+}
+.gallery {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 635px;
+  top: 2959px;
+}
+.connect-with-us {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1061px;
+  top: 2942px;
+}
+.information {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 2706px;
+}
+.fa-qs {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 2759px;
+}
+.privacy-policy {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 2808px;
+}
+.terms-conditions {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 2856px;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 837px;
+  top: 2905px;
+}
+.logo-1 {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: 157px;
+  top: 2608px;
+}
+.vector {
+  position: absolute;
+  left: 1063px;
+  top: 2983px;
+  overflow: visible;
+}
+.vector2 {
+  position: absolute;
+  left: 1105.84px;
+  top: 2983px;
+  overflow: visible;
+}
+.vector3 {
+  position: absolute;
+  left: 1171.84px;
+  top: 2983px;
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: 1229.84px;
+  top: 2983px;
+  overflow: visible;
+}
+.price {
+  color: #000000;
+  text-align: left;
+  font: 400 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 250px;
+  top: 1914px;
+}
+.butterscotch-bliss-cake {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 540px;
+  top: 1860px;
+}
+.price1{
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 540px;
+  top: 1909px;
+}
+.indulgent-chocolate-cake {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 1860px;
+}
+.price2 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 136px;
+  top: 1908px;
+}
+.choco-vanilla-black-forest-cake {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 946px;
+  top: 1860px;
+}
+.price3{
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 252px;
+  top: 2461px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 59.48px;
+  height: 0px;
+  position: absolute;
+  left: 254px;
+  top: 2483px;
+  transform-origin: 0 0;
+  transform: rotate(-16.607deg) scale(1, 1);
+}
+.line-4 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 74.95px;
+  height: 0px;
+  position: absolute;
+  left: 250px;
+  top: 1940px;
+  transform-origin: 0 0;
+  transform: rotate(-13.109deg) scale(1, 1);
+}
+.rasmalai {
+  border-radius: 5px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 532px;
+  top: 2014px;
+}
+.rectangle-382 {
+  background: rgba(211, 95, 128, 0.3);
+  width: 1440px;
+  height: 112px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 0px;
+}
+.home2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 377px;
+  top: 55px;
+}
+.about-us2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 477px;
+  top: 55px;
+}
+.contact-us2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 1045px;
+  top: 55px;
+}
+.cakes3 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 626px;
+  top: 55px;
+}
+.testimonial2 {
+  color: #000000;
+  text-align: left;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 734px;
+  top: 55px;
+}
+.gallery2 {
+  color: #000000;
+  text-align: center;
+  font: 500 24px "Poppins", sans-serif;
+  position: absolute;
+  left: 916px;
+  top: 55px;
+}
+.logo-3 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 88px;
+  top: -48px;
+}
+.price4 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 946px;
+  top: 1909px;
+}
+.decadent-red-velvet-cake {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 142px;
+  top: 2404px;
+}
+.price5 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 142px;
+  top: 2451px;
+}
+.luscious-rasmalai-pista-cream-cake {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 535px;
+  top: 2404px;
+}
+.price6 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 535px;
+  top: 2451px;
+}
+.kitkat-crunch-chocolate-bliss {
+  color: #000000;
+  text-align: left;
+  font: 400 20px "Poppins", sans-serif;
+  position: absolute;
+  left: 953px;
+  top: 2404px;
+}
+.price7 {
+  color: #000000;
+  text-align: left;
+  font: 700 32px "Poppins", sans-serif;
+  position: absolute;
+  left: 953px;
+  top: 2451px;
+}
+.kitkatimg {
+  border-radius: 5px;
+  width: 381px;
+  height: 381px;
+  position: absolute;
+  left: 936px;
+  top: 2013px;
+}
